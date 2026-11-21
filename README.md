@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hi, I'm Dipak Kailas Patil
 
-<!--
-**dipak-data-analyst/dipak-data-analyst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Analyst | Power BI | SQL | Python | Excel | Gen AI
 
-Here are some ideas to get you started:
+Welcome to my GitHub Profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+I am a Data Analyst with 1 year of professional experience at Aayan Multitrade LLP.
+
+- Data Extraction and Data Cleaning
+- Data Transformation and Analysis
+- Power BI Dashboard Development
+- Generating Business Insights
+
+## 🛠️ Technical Skills
+
+- **Power BI:** Dashboard Development, DAX, Power Query
+- **SQL:** Data Extraction, Joins, Filtering, Aggregations
+- **Python:** Data Analysis and Data Manipulation
+- **Advanced Excel:** Data Cleaning, Formulas, Reporting
+
+## 💼 Professional Experience
+
+**Data Analyst – Aayan Multitrade LLP**
+
+- 1 year of professional experience in Data Analytics.
+- Data Extraction, Cleaning and Transformation.
+- Interactive Power BI Dashboard Development.
+- Creating DAX Measures and KPI Visualizations.
+
+## 🎓 Education
+
+- **B.Sc. Computer Science:** R.C. Patel ACS College, Shirpur
+
+## 📊 Areas of Interest
+
+- Data Analytics
+- Business Intelligence
+- Data Visualization
+- Dashboard Development
+- Business Reporting
+
+## 📂 Projects
+
+My Data Analytics projects will be added here as they are finalized.
+
+---
+
+⭐ Thank you for visiting my GitHub Profile!
